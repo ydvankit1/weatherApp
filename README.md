@@ -1,3 +1,5 @@
+![Screen1](https://github.com/user-attachments/assets/3eb4126c-cc87-475c-95f0-ca91ab40e007)
+![Screen2](https://github.com/user-attachments/assets/a4b41fa0-fa0a-4d6e-a13c-81f1b8a13459)
 # RealTime Weather App
 
 ## Overview
