@@ -31,6 +31,3 @@ Welcome to RealTime Weather App! This Flutter application provides real-time wea
 
 This app utilizes the OpenWeatherMap API to fetch real-time weather data. We would like to extend our gratitude to the developers of OpenWeatherMap for providing this valuable service.
 
-## Contributing
-
-Contributions are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request.
